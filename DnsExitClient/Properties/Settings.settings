@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DnsExitClient.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IpWhoIsUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://ip.dnsexit.com</Value>
+    </Setting>
+    <Setting Name="MyDomains" Type="System.String" Scope="User">
+      <Value Profile="(Default)">inomba.com;audisport.es;elpp.es;elpsoe.es;</Value>
+    </Setting>
+    <Setting Name="Login" Type="System.String" Scope="User">
+      <Value Profile="(Default)">fabriciom</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hackthis</Value>
+    </Setting>
+    <Setting Name="UpdateUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://update.dnsexit.com/RemoteUpdate.sv?login=$MyLogin&amp;password=$MyPassword&amp;host=$MyDomains&amp;myip=$MyIp</Value>
+    </Setting>
+    <Setting Name="IpTempFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Temp\MyIp.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

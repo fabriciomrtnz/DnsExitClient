@@ -1,0 +1,6 @@
+C:\Projects\DnsExitClient\DnsExitClient\bin\Debug\DnsExitClient.exe.config
+C:\Projects\DnsExitClient\DnsExitClient\bin\Debug\DnsExitClient.exe
+C:\Projects\DnsExitClient\DnsExitClient\bin\Debug\DnsExitClient.pdb
+C:\Projects\DnsExitClient\DnsExitClient\obj\Debug\DnsExitClient.csprojResolveAssemblyReference.cache
+C:\Projects\DnsExitClient\DnsExitClient\obj\Debug\DnsExitClient.exe
+C:\Projects\DnsExitClient\DnsExitClient\obj\Debug\DnsExitClient.pdb
